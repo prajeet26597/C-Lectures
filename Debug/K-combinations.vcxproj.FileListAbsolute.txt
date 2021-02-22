@@ -1,0 +1,2 @@
+D:\Documents\c++ projects\Advanced C++ NYU edx\K-combinations problem\K-combinations\Debug\K-combinations.exe
+D:\Documents\c++ projects\Advanced C++ NYU edx\K-combinations problem\K-combinations\Debug\K-combinations.pdb
