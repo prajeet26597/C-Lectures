@@ -1,0 +1,2 @@
+D:\Documents\c++ projects\Advanced C++ NYU edx\Lectures\Lecture 2\Algorithm analysis Lec2\Debug\Algorithm analysis Lec2.exe
+D:\Documents\c++ projects\Advanced C++ NYU edx\Lectures\Lecture 2\Algorithm analysis Lec2\Debug\Algorithm analysis Lec2.pdb

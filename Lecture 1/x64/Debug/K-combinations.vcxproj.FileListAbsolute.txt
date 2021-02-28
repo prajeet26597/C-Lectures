@@ -1,0 +1,2 @@
+D:\Documents\c++ projects\Advanced C++ NYU edx\Lectures\Lecture 1\x64\Debug\Lecture_1_Adv_Prog_CPP.exe
+D:\Documents\c++ projects\Advanced C++ NYU edx\Lectures\Lecture 1\x64\Debug\Lecture_1_Adv_Prog_CPP.pdb
